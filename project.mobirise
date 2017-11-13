@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Datalytiqa",
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 53,
     "versionPublish": "4.4.0",
@@ -35,7 +35,8 @@
       ]
     },
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-109598800-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-109598800-1');\r\n</script>\r\n"
   },
   "pages": {
     "index.html": {
@@ -2624,7 +2625,7 @@
         }
       ]
     },
-    "aboutus.html": {
+    "about_us.html": {
       "settings": {
         "title": "About Us",
         "meta_descr": "",
