@@ -1751,31 +1751,8 @@ body {
 .cid-qzW80ERhix .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qY2Ae2K2ji {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-color: #149dcc;
-  background: linear-gradient(45deg, #149dcc, #000000);
-}
-.cid-qY2Ae2K2ji .media-container-row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-qY2Ae2K2ji .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qY2Ae2K2ji .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qY2Ae2K2ji .mbr-text {
-    text-align: center;
-  }
+.cid-qYCkzXeWBY {
+  background-image: url("../../../assets/images/office-3295556-1920-1920x1168.jpg");
 }
 .cid-qY36S760qa {
   padding-top: 120px;
